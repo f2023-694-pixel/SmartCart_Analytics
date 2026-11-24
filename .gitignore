@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log/
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
