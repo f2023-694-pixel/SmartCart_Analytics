@@ -118,22 +118,6 @@ The findings can support better inventory planning, customer understanding, and 
 - Demand forecasting.
 - Interactive dashboards using Power BI.
 
-## 12. How to Run the Project
-
-1. Open the Jupyter Notebook in Google Colab.
-2. Install PySpark and the required libraries.
-3. Upload the five CSV datasets into the Colab environment.
-4. Update the dataset paths if necessary.
-5. Run the notebook cells in order.
-6. Review the analytical results and visualizations.
-
-## 13. Project Files
-
-- `SmartCart_Analytics_Midterm_Project.ipynb` – Complete project implementation.
-- `README.md` – Project documentation.
-- `requirements.txt` – Required Python libraries.
-- `results/` – Optional exported analytical results.
-
 ---
 
 **Project:** SmartCart Analytics  
